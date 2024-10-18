@@ -2,7 +2,7 @@ appName: necessary-copper
 appUniqueId: faisalarrowai/necessary-copper
 appInfo:
   description: A snake game
-  appVersion: ''
+  appVersion: 1.0.0
   appRepoUrl: https://github.com/faisalarrowai/32.git
   appIconUrl: ''
   appAuthorUserId: faisalarrowai
