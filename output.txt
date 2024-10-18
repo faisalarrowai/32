@@ -1,0 +1,164 @@
+[?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm[?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[93mn[97m[2m[3mode index.js[7;62H[?25h[?25l[m[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K⠏[K⠋[K⠙[K[?25lNeed to install the following packages:[K
+http-server@14.1.1[K
+Ok to proceed? (y) cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper   
+[K[1m
+npm[22m [31merror [mcanceled[K[1m
+npm[22m [31merror [mA complete log of this run can be found in: C:\Users\faisa\AppData\Local\npm-cache\_logs\2024-10-18T05_52_41_900Z-debug-0.log[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[16;1H[?25h]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_FAILURE
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K[?25lNeed to install the following packages:[K
+http-server@14.1.1[K
+Ok to proceed? (y) cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper   
+[K
+⠙[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[13;2H[?25h[1mnpm[22m [31merror [mcanceled[K[1m
+npm[22m [31merror [mA complete log of this run can be found in: C:\Users\faisa\AppData\Local\npm-cache\_logs\2024-10-18T05_54_42_677Z-debug-0.log
+[K]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_FAILURE
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K[?25lNeed to install the following packages:[K
+http-server@14.1.1[K
+Ok to proceed? (y) cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper   
+[K[1m
+npm[22m [31merror [mcanceled[K[1m
+npm[22m [31merror [mA complete log of this run can be found in: C:\Users\faisa\AppData\Local\npm-cache\_logs\2024-10-18T05_59_28_327Z-debug-0.log[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[16;1H[?25h]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_FAILURE
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K[?25lNeed to install the following packages:[K
+http-server@14.1.1[K
+Ok to proceed? (y) cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper   
+[K[1m
+npm[22m [31merror [mcanceled[K
+⠙[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[14;2H[?25h[1mnpm[22m [31merror [mA complete log of this run can be found in: C:\Users\faisa\AppData\Local\npm-cache\_logs\2024-10-18T06_04_47_971Z-debug-0.log
+[K]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_FAILURE
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm[?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[93mn[97m[2m[3mode index.js[7;62H[?25h[?25l[m[91m[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILU[97m[2m[3mRE" }[8;71H[?25h[?25l[m[93m[7;61Hnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE"[97m[2m[3m }[m[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K[?25lNeed to install the following packages:[K
+http-server@14.1.1[K
+Ok to proceed? (y) cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper   
+[K
+⠙[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K
+[K[13;2H[?25h[1mnpm[22m [31merror [mcanceled[K[1m
+npm[22m [31merror [mA complete log of this run can be found in: C:\Users\faisa\AppData\Local\npm-cache\_logs\2024-10-18T06_06_54_729Z-debug-0.log
+[K]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_FAILURE
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[93mn[97m[2m[3mode index.js[7;62H[?25h[?25l[m[91m[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FA[97m[2m[3mILURE" }[m[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILU[97m[2m[3mRE" }[m[93m[7;61Hnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h[91m^C[m
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K⠏[K⠋[K⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K[K]0;C:\WINDOWS\system32\cmd.exe ]0;http-server[?25l[33mStarting up http-server, serving [36m./[33m[11;1Hhttp-server version: [36m14.1.1[33m[13;1Hhttp-server settings: 
+CORS: [31mdisabled[33m
+Cache: [36m3600 seconds[33m
+Connection Timeout: [36m120 seconds[33m
+Directory Listings: [36mvisible[33m
+AutoIndex: [36mvisible[33m
+Serve GZIP Files: [31mfalse[33m
+Serve Brotli Files: [31mfalse[33m
+Default File Extension: [31mnone[33m[23;1HAvailable on:[m
+  http://192.168.0.106:[32m8081[?25h[m
+  http://127.0.0.1:[32m8081[K[m
+  http://172.31.160.1:[32m8081[K[m
+Hit CTRL-C to stop the server
+
+cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+[Fri Oct 18 2024 11:47:13 GMT+0530 (India Standard Time)]  "[36mGET /[m" "Mozilla/5.0 
+[23;80H (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.
+[23;80H.0.5845.228 Electron/26.6.10 Safari/537.36"
+[31m(node:6052) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is [m
+[31m[23;80H deprecated[m
+[31m(Use `node --trace-deprecation ...` to show where the warning was created)      [m
+[Fri Oct 18 2024 11:47:13 GMT+0530 (India Standard Time)]  "[36mGET /styles.css[m" "Mo
+[23;80Hozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) C
+[23;80HChrome/116.0.5845.228 Electron/26.6.10 Safari/537.36"
+[Fri Oct 18 2024 11:47:13 GMT+0530 (India Standard Time)]  "[36mGET /script.js[m" "Moz
+[23;80Hzilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Ch
+[23;80Hhrome/116.0.5845.228 Electron/26.6.10 Safari/537.36"
+[31mhttp-server stopped.[m
+[K]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_SUCCESS
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper>[1C[93mcd [mC:\Users\faisa\On[?25l
+[93m[23;61Hcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper[?25h
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25h]0;npm]0;npm exec http-server⠙[K⠹[K⠸[K⠼[K⠴[K⠦[K⠧[K⠇[K[K]0;C:\WINDOWS\system32\cmd.exe ]0;http-server[?25l[33mStarting up http-server, serving [36m./[33m[11;1Hhttp-server version: [36m14.1.1[33m[13;1Hhttp-server settings: 
+CORS: [31mdisabled[33m
+Cache: [36m3600 seconds[33m
+Connection Timeout: [36m120 seconds[33m
+Directory Listings: [36mvisible[33m
+AutoIndex: [36mvisible[33m
+Serve GZIP Files: [31mfalse[33m
+Serve Brotli Files: [31mfalse[33m
+Default File Extension: [31mnone[33m[23;1HAvailable on:[m
+  http://192.168.0.106:[32m8080[?25h[m
+  http://127.0.0.1:[32m8080[K[m
+  http://172.31.160.1:[32m8080[K[m
+Hit CTRL-C to stop the server
+
+cd C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper
+[31mhttp-server stopped.[m
+⠙[K]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exeCOMMAND_SUCCESS
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [93mcd [mC:\Users\faisa\On[?25l
+[23;80HneDrive\Desktop\bhramm\necessa[97m[2m[3mry-copper[m[K[42C[93m[23;61Hcd [mC:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper[?25h
+PS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[2J[m[HWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.[4;1HInstall the latest PowerShell for new features and improvements! https://aka.ms/PSWindows[7;1H]0;C:\windows\System32\WindowsPowerShell\v1.0\powershell.exe[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> [?25l[7;59H> [93mnpx [mhttp-server; [92mif [m([92m$?[m) { [93mWrite-Host [36m"COMMAND_SUCCESS" [m} [92melse [m{ [93mWrite-Host [36m"COMMAND_FAILURE" [m}
+[?25hPS C:\Users\faisa\OneDrive\Desktop\bhramm\necessary-copper> 

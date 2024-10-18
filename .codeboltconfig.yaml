@@ -1,1 +1,36 @@
-
+appName: necessary-copper
+appUniqueId: faisalarrowai/necessary-copper
+appInfo:
+  description: A snake game
+  appVersion: ''
+  appRepoUrl: https://github.com/faisalarrowai/32.git
+  appIconUrl: ''
+  appAuthorUserId: faisalarrowai
+  forkedFrom: ''
+technicalInfo:
+  supportedLanguages: []
+  supportedFrameworks: []
+  secrets: []
+  services: []
+  knowledgebases: []
+  instruction: []
+usage:
+  develop:
+    agents: []
+    layout: ''
+    run:
+      - shell:
+          command: npx http server
+  install:
+    steps:
+      - instruction:
+          AIinstruction: its a simple html , css and javascript app . Use npx http-server
+    customInstallationAgent:
+      agent: ''
+      enabled: false
+  appUse:
+    prerunsteps: []
+    agents: []
+    layout: ''
+    appPreview:
+      type: ''
